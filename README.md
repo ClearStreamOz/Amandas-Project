@@ -1,2 +1,2 @@
-# DataProductsCoursera
-This is a clone of the repository from coursera on Developing Data Products
+# Amanda's Project
+This is a space to develop a data product for Amanda.  I changed the repositories name when I changed the purpose.
